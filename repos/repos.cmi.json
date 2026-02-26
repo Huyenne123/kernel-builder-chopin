@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "bxsj-KernelSU-Proton-release",
-      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
-      "branch": "r",
-      "device": "chopin",
-      "defconfig": "chopin_user_defconfig"
+      "repo": "https://github.com/Huyenne123/Eureka-Kernel",
+      "branch": "R24U",
+      "device": "a30",
+      "defconfig": "exynos7885_a30_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [

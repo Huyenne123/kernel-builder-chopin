@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "bxsj-KernelSU-Proton-release",
+      "name": "Eureka-Kernel",
       "repo": "https://github.com/Huyenne123/Eureka-Kernel",
       "branch": "R24U",
       "device": "a30",
